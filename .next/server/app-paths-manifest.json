@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/success/page": "app/success/page.js",
-  "/fail/page": "app/fail/page.js",
-  "/api/payment/route": "app/api/payment/route.js",
-  "/api/fail/route": "app/api/fail/route.js"
-}
